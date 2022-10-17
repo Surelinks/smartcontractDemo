@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Surelinks/test/issues"
   },
-  "homepage": "https://github.com/Surelinks/test#readme"
+  "homepage": "https://github.com/Surelinks/test#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.0"
+  }
 }
